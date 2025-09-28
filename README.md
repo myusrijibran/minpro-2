@@ -42,7 +42,12 @@ tampilan ketika custumer ingin melihat data reservasi yang telah dibuat
 
 <img width="286" height="76" alt="Screenshot 2025-09-28 223751" src="https://github.com/user-attachments/assets/93b5005a-12d2-48ba-98bf-30ab3da3f3f3" />
 
-tampilan ketika pengguna salah mamasukkan password
+tampilan ketika pengguna salah mamasukkan password yang salah
+
+<img width="354" height="45" alt="Screenshot 2025-09-28 223759" src="https://github.com/user-attachments/assets/b7875c5a-822b-47cd-b53c-3aacb8eaa38b" />
+
+tampilan ketika pengguna klik "ctrl + c"
+
 
 
 
